@@ -96,19 +96,24 @@ p{
     color: grey;
 }
 
+h2{
+    margin: 1em 0;
+}
+
+.main-box{
+    width: 100%;
+}
+
 [class*="column-"] {
     margin: 1em 0;
 }
 
 .column-1, .column-3{
-    width: 20%;
-    height: calc(30em - 2em);
-    
+    width: 20%;    
 }
 
 .column-2{
     width: calc(60% - 1em);
-    height: calc(30em - 2em);
     margin-left: 0.5em;
     margin-right: 0.5em;
 }
@@ -130,9 +135,12 @@ p{
     border-radius: 1em; 
 }
 
+.bg-3 {
+    background-image: url(../img/img-3.jpg);
+}
+
 
 footer{
-    height: 2.5em;
-    background-color: darkorchid;
     margin-top: 0.5em;
+    text-align: center;
 }
