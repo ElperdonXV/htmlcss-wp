@@ -102,6 +102,7 @@ h2{
 
 .main-box{
     width: 100%;
+    margin-top: 1em;
 }
 
 [class*="column-"] {
@@ -116,9 +117,9 @@ h2{
 }
 
 .column-2{
-    width: calc(60% - 1em);
-    margin-left: 0.5em;
-    margin-right: 0.5em;
+    width: calc(60% - 2em);
+    margin-left: 1em;
+    margin-right: 1em;
 }
 
 .main-col-img-box{
