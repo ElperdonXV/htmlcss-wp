@@ -46,6 +46,10 @@ nav a{
     background-size: cover;
     background-position: center;
     border-radius: 1em;
+    color: white;
+    padding-left: 3em;
+    padding-top: 28em;
+    padding-right: 50em;
 }
 
 
