@@ -92,27 +92,22 @@ nav a{
     border-radius: 1em;
 }
 
-
-
-.b-blue{
-    height: 30em;
-    background-color: dodgerblue;
+p{
+    color: grey;
 }
 
 [class*="column-"] {
     margin: 1em 0;
-    background-color: deepskyblue;
-    
 }
 
 .column-1, .column-3{
-    width: 25%;
+    width: 20%;
     height: calc(30em - 2em);
     
 }
 
 .column-2{
-    width: calc(50% - 1em);
+    width: calc(60% - 1em);
     height: calc(30em - 2em);
     margin-left: 0.5em;
     margin-right: 0.5em;
