@@ -75,6 +75,25 @@ nav a{
     margin-top: 2em;
 }
 
+.col-img-box{
+    width: 100%;
+    height: 16em;
+    border-radius: 1em;
+    background-image: url(../img/img-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.opacity-box-col{
+    width: 100%;
+    height: 16em;
+    background-color: rgba(0,0,0,0.2);
+    border-radius: 1em;
+}
+
+
+
 .b-blue{
     height: 30em;
     background-color: dodgerblue;
