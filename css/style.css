@@ -107,6 +107,9 @@ h2{
 [class*="column-"] {
     margin: 1em 0;
 }
+[class*="column-"] h2{
+    font-weight: 500;
+}
 
 .column-1, .column-3{
     width: 20%;    
